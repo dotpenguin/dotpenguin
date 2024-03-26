@@ -4,9 +4,7 @@
 <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 
 <br />
-
 I am a Mobile Developer at <a href="https://www.niuapp.io/sv">Niu App</a>. I love to **learn** and **play** with new technologies, **connect** with people around the world and **help** others with tech problems.
-  
 <br />
 
 ## 💼 Languages and Tools
