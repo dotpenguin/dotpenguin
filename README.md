@@ -18,7 +18,7 @@ I am a Mobile Dev at <a href="https://www.niuapp.io/sv">Niua App</a>. I love to 
 <img src="https://img.shields.io/badge/-swift-f05138?&style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-A259FF.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <br />
