@@ -5,7 +5,7 @@
 
 <br />
 
-I am a Mobile Dev at <a href="https://www.niuapp.io/sv">Niu App</a>. I love to **learn** about new technology, **connect** with people around the world and **help** others get into tech as well.
+I am a Mobile Dev at <a href="https://www.niuapp.io/sv">Niu App</a>. I love to **learn** about new technologies, **connect** with people around the world and **help** others get into tech as well.
   
 <br />
 
