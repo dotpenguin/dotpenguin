@@ -14,6 +14,7 @@ I am a Mobile Dev at <a href="https://www.niuapp.io/sv">Niua App</a>. I love to 
 <br />
 <div>
 <img src="https://img.shields.io/badge/-flutter-027DFD?&style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/-android-A4C639?&style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
